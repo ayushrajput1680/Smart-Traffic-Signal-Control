@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+venv/
+env/
+.env/
+.venv/
+*.out
+*.log
+results/*.csv
+!results/learning_curves.png
+sim_dumps/
+.vscode/
+.idea/
+.DS_Store
